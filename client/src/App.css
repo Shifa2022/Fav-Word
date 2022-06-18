@@ -1,0 +1,21 @@
+
+
+.DELBUTTON{
+  padding-left: 400px;
+  width: min-content;
+  height: inherit;
+}
+
+.positiondelbutton{
+  position: relative;
+}
+.containerwords{
+  /* background-color: rgb(198, 162, 210); */
+  border-style: solid;
+  nav-left: auto;
+  border-color:rgb(198, 162, 210); 
+}
+.div{
+  background-color:rgb(198, 162, 210);
+}
+
